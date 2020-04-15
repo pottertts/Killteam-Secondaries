@@ -1,5 +1,5 @@
 {
-	"ver": "v2.01",
+	"ver": "LVO",
 	"names": [
 		["Relic Hunters", "When an enemy model is taken out of action, remove the model and place a Kill Team token (1” in diameter or less) as close as possible to the center of the point where the enemy model was located. At the end of the battle round, if any models from your kill team (other than shaken models) are within 1” of the center of any of these tokens, remove one of those makers and score 1 victory point.s"],
 		["Hip Shot", "At the end of the Shooting phase, score 1 victory point if one or more models from your kill team made a shooting attack that took an enemy model out of action, and the attack was made from a range of half, or less, than the weapons maximum range."],
@@ -18,7 +18,6 @@
 		["Recon Sweep", "At the end of the battle round, score 1 victory point if one or more models from your kill team (other than shaken models) are wholly within the enemy deployment zone."],
 		["Reconnaissance", "At the end of the battle round, score 1 victory point if there are models from your kill team (other than shaken models) within 1" of at least two different battlefield edges. Models wholly, or partially, within your deployment zone do not count."],
     ["Thin Their Ranks", "At the end of the battle round, score 1 victory point if two or more enemy models were taken out of action in that battle round."],
-    ["Undaunted", "At the end of the Movement phase, score 1 victory point if two or more models from your kill team fired Overwatch in that phase."],
-  **["", ""],**
+    ["Undaunted", "At the end of the Movement phase, score 1 victory point if two or more models from your kill team fired Overwatch in that phase."]
   ]
 }
