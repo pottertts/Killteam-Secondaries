@@ -1,0 +1,17 @@
+{
+	"ver": "LVO",
+	"names": [
+		["Bounty Hunters", "When an enemy model is taken Out of Action, place a Token (1” or less) wholly underneath its base before removing the model from the battlefield. Score 1 VP if a model from your kill team ends any move in contact with any of your markers, and then remove one of the markers your model is in contact with."],
+		["Data Recovery", "At the end of the mission, score 3 VP if there is at least 1 objective marker that you have controlled at the end of each battle round."],
+		["Vicious Assault", "At the end of the Movement Phase, score 1 VP if two or more different models from your kill team made a successful Charge move in this phase."],
+		["Obliteration", "At the end of the battle round, score 1 victory point if you rolled two or more dice in an Injury roll for an enemy model and that model was taken out of action by that Injury roll."],
+		["Mind Games", "At the end of the Morale phase, score 1 VP if your opponent is forced to take a break test. Score 3 VP if they successfully break."],
+		["Reaper", "Score 3 VP if you take 6 enemy models out of action throughout the course of the entire game."],
+		["Hold the Perimeter", "Score 1 VP if 3 or more models are within 3” of 3 different board corners."],
+		["Domination", "At the end of the battle round, score 1 VP if more models from your kill team are within 3” of the center of the battlefield than there are enemy models within 3” of the center of the battlefield (not including shaken models)."],
+		["Engineer", "Nominate 1 INFANTRY/BATTLESUIT model (other than your Leader) at the start of the game to be an ‘Engineer,’ and place a token next to them during the game; if this model is within 2” of the center of an objective marker at the start of the movement phase and not within 1” of an enemy model, score 1 VP. If you do so, that model cannot be chosen to move, react, manifest psychic powers or shoot in this battle round, and they can only be chosen to fight in the Fight Phase if they were charged this battle round."],
+		["Headhunter", "Score 1 VP for every enemy specialist (other than the leader) Out of Action. Score 3 VP if all enemy specialists (other than the leader) are Out of Action or shaken."],
+		["Point Blank", "At the end of the Battle Round, score 1 VP if oneor more models from your kill team made a shooting attack that took an enemy model out of action, and the attack was made from a range of 6” or less."],
+		["Old School", "Score 1 VP if your kill team takes one or more enemy models Out of Action in the first Battle Round. In addition; Score 1 VP (to a maximum of 1) if you have at least one model wholly within the enemy's deployment zone at the end of the game. In addition; score 2 VP for killing the enemy's Leader."],
+ ]
+}
